@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "",
   "homepage": "https://github.com/HackerUSA-CE/activity-11.2.2-getting-started#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
